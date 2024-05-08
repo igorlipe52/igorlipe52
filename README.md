@@ -1,16 +1,29 @@
-### Hi there 👋
+ Olá! Me chamo Igor 👋
 
-<!--
-**igorlipe52/igorlipe52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Sou entusiasta e estudante de tecnologia, estou constantemente aprimorando meu conhecimento e minhas habilidades em cloud.
 
-Here are some ideas to get you started:
+ Quero entrar no mercado de trabalho com a intenção de operar em alto nível e poder agregar em todos os aspectos profissionais possíveis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ Aqui apresento projetos do qual desenvolvi
+ 
+![image](https://github.com/igorlipe52/igorlipe52/assets/140567532/7ac28240-b897-4db2-bff4-f220c926fa5f)
+
+- Skills Básicas
+
+⛈ Azure e AWS
+💻 Microsoft 365
+🖱 Redes
+⌨ SQL
+
+- Certificações
+- 
+Microsoft: Azure Fundamentals | AZ-900 
+Microsoft: Microsoft 365 Fundamentals | MS-900 
+EF Standard English Test (C1).
+
+ 
+- 🔭 Atualmente estudando e desenvolvendo projetos na cloud
+- 🌱 Atualmente se especializando em Cloud Computing
+- 👯 Quero colaborar em projetos reais
+
+
