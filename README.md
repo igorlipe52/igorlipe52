@@ -17,8 +17,8 @@
 
 - Certificações
   
-Microsoft: Azure Fundamentals | AZ-900 
-Microsoft: Microsoft 365 Fundamentals | MS-900 
+Microsoft: Azure Fundamentals (AZ-900) |
+Microsoft: Microsoft 365 Fundamentals (MS-900) | 
 EF Standard English Test (C1)
 
  
