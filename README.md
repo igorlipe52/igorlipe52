@@ -14,7 +14,7 @@
 💻 Microsoft 365
 🖱 Redes
 ⌨ SQL
-:penguin: Linux
+🐧 Linux
 
 - Certificações
   
