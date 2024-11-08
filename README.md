@@ -21,7 +21,8 @@
 Microsoft: Azure Fundamentals (AZ-900) |
 Microsoft: Microsoft 365 Fundamentals (MS-900) |
 Microsoft: AI Fundamentals (AI-900) |
-EF Standard English Test (C1)
+EF Standard English Test (C1) |
+Linux Essentials (010-160)
 
  
 - 🔭 Atualmente estudando e desenvolvendo projetos na cloud.
