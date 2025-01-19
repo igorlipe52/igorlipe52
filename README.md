@@ -11,6 +11,7 @@
 - Skills Básicas
 
 ⛈ Azure e AWS
+📟 IaC (Terraform)
 💻 Microsoft 365
 🖱 Redes
 ⌨ SQL
@@ -22,7 +23,8 @@ Microsoft: Azure Fundamentals (AZ-900) |
 Microsoft: Microsoft 365 Fundamentals (MS-900) |
 Microsoft: AI Fundamentals (AI-900) |
 EF Standard English Test (C1) |
-Linux Essentials (010-160)
+Linux Essentials (010-160) |
+AWS Solutions Architect (SAA-C03)
 
  
 - 🔭 Atualmente estudando e desenvolvendo projetos na cloud.
