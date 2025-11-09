@@ -14,7 +14,6 @@
 📟 IaC (Terraform)
 💻 Microsoft 365
 🖱 Redes
-⌨ SQL
 🐧 Linux
 
 - Certificações
